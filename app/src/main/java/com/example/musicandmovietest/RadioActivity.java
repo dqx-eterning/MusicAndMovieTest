@@ -16,6 +16,7 @@ import android.widget.Toast;
 import java.io.File;
 import java.io.IOException;
 
+//播放音乐的activity
 public class RadioActivity extends AppCompatActivity {
 
     private MediaPlayer musicPlayer=new MediaPlayer();
